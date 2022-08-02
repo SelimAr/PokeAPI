@@ -1,3 +1,15 @@
+### **POKE-API ReactJS-Tailwindcss-Typescript-NextJS**
+![Desktop_View](https://user-images.githubusercontent.com/82125128/182428972-bb3661bd-9a4a-41a6-997f-98878bc92cdf.PNG)
+Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Desktop_View_Modal](https://user-images.githubusercontent.com/82125128/182429028-c39fb423-641f-4207-ae0c-f784f92da84f.PNG)
+Modal Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Responsive_View_Modal](https://user-images.githubusercontent.com/82125128/182429071-bdb078b9-bde5-4a0e-aa20-65a47dcf791f.PNG)
+
+Modal Responsive view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
